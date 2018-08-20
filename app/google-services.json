@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "324083350881",
+    "firebase_url": "https://illegal-hoarding.firebaseio.com",
+    "project_id": "illegal-hoarding",
+    "storage_bucket": "illegal-hoarding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324083350881:android:d38d762ccca63c10",
+        "android_client_info": {
+          "package_name": "com.hackwithinfy.one.hoarding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324083350881-3nl8sr4fl82dgfnolq3ahu5vq1rq0e69.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW7SylxRpoGeS5yI9fJC-MF2Kox1pbPQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
